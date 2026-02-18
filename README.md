@@ -6,7 +6,7 @@
   </div>
   <div>
     <ul>
-      <h3>The implementation include :</h3>
+      <h3>📩 The implementation include :</h3>
     </ul>
     <ul>
       <li> Custom node class</li>
@@ -17,6 +17,6 @@
       <li>Print method for diplay the list</li>
     </ul>
   </div>
-  <p>This program helps in understanding pointer manipulation and traversal logic in linked List</p>
+  <p>➡️ This program helps in understanding pointer manipulation and traversal logic in linked List</p>
 </body>
 
