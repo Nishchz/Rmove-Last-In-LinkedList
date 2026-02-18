@@ -16,7 +16,7 @@
       <li>Remove Last operation</li>
       <li>Print method for diplay the list</li>
     </ul>
-  </div>
   <p>➡️ This program helps in understanding pointer manipulation and traversal logic in linked List</p>
+  </div>
 </body>
 
