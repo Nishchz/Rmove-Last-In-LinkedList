@@ -34,10 +34,10 @@
       <li>If the list is empty-> return error value </li>
       <li>If only one node exists -> set head and tail to null</li>
       <li>otherwise</li>
-      <ol>
+    </ol>
+    <ul>
       <li> Traverse till the second last node</li>
       <li> Set its <mark><b> next</b></mark> to null</li>   
-      </ol>
     </ul>
   </div>
 </body>
