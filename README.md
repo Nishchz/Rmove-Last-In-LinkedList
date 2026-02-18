@@ -27,7 +27,7 @@
       <li>Node (data + reference to the next node)</li>
       <li>Head pointer (first node)</li>
       <li>Tail pointer (last node)</li>
-      <li></li>
+      <li>Size variable to track number of nodes</li>
     </ul>
   </div>
 </body>
