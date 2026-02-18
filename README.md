@@ -29,6 +29,16 @@
       <li>Tail pointer (last node)</li>
       <li>Size variable to track number of nodes</li>
     </ul>
+    <h4>To remove the Last node </h4>
+    <ol>
+      <li>If the list is empty-> return error value </li>
+      <li>If only one node exists -> set head and tail to null</li>
+      <li>otherwise</li>
+      <ol>
+      <li> Traverse till the second last node</li>
+      <li> Set its <mark><b> next</b></mark> to null</li>   
+      </ol>
+    </ul>
   </div>
 </body>
 
