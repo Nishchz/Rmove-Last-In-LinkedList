@@ -21,7 +21,7 @@
   <div>
     <h2>🧠 Concept Used</h2>
     <ul>
-      <h3>A <mark><b> Singly Linked List</b></mark> consists of :</h3>
+      <h3>🧾 A <mark><b> Singly Linked List</b></mark> consists of :</h3>
     </ul>
     <ul>
       <li>Node (data + reference to the next node)</li>
