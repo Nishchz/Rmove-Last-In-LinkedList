@@ -52,5 +52,14 @@
       </ul>
     </ul>
   </div>
+  <h1>📑Learning Outcome</h1>
+  <ul>
+    <li> Linked List Traversal</li>
+    <li> Pointer Manuplation</li>
+    <li>Edge Case Handling</li>
+    <li>How Tail Upadtes Work</li>
+  </ul>
+  <div> 
+  </div>
 </body>
 
