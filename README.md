@@ -46,6 +46,10 @@
     <h1> 🧾add Last method</h1>
     <ul>
       <li>Add new node at the end of the end of the list</li>
+      <ul>
+        <li> If the  list is empty-> head=tail=newNode</li>
+        <li>Otherwise->attach newNode to tail amd move tail</li>
+      </ul>
     </ul>
   </div>
 </body>
