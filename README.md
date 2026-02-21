@@ -39,6 +39,7 @@
       <li> Traverse till the second last node</li>
       <li> Set its <mark><b> next</b></mark> to null</li>   
       <li> traverse tail yo second last node</li>
+      <li></li>
     </ul>
   </div>
   <div>
