@@ -45,7 +45,7 @@
   <div>
     <h1> 🧾add Last method</h1>
     <ul>
-      <li>add new</li>
+      <li>Add new</li>
     </ul>
   </div>
 </body>
