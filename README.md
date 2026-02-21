@@ -45,7 +45,7 @@
   <div>
     <h1> 🧾add Last method</h1>
     <ul>
-      <li>Add new node at the end of the end</li>
+      <li>Add new node at the end of the end of the list</li>
     </ul>
   </div>
 </body>
